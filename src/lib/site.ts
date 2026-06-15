@@ -28,8 +28,8 @@ export const site = {
     instagram: "",
     google: "",
   },
-  // Public site URL, used for metadata/sitemap. Updated after you connect a domain.
-  url: "https://gatewaycomputerrepair.com",
+  // Public site URL, used for metadata/sitemap. Update this when you connect a custom domain.
+  url: "https://gateway-computer-repair.vercel.app",
 } as const;
 
 export type ServiceItem = {
